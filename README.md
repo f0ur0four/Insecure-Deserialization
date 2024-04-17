@@ -208,6 +208,10 @@ Resources to learn about Insecure Deserialization
 #### Poisoned Pickles Make You ILL
 - [Video](https://www.youtube.com/watch?v=Cz5oBV5Skek)
 
+## Perl
+#### Weaponizing Perl Serialization Flaws With MetaSploit
+- [Video](https://www.youtube.com/watch?v=Gzx6KlqiIZE)
+  
 ## PHP
 #### Practical PHP Object Injection
 - [Slides](https://insomniasec.com/downloads/publications/Practical%20PHP%20Object%20Injection.pdf)
@@ -315,7 +319,8 @@ Resources to learn about Insecure Deserialization
 - [Into The Jar | Jsonpickle Exploitation](https://versprite.com/vs-labs/into-the-jar-jsonpickle-exploitation/)
 - [pgAdmin: Path Traversal in Session Handling Leads to Unsafe Deserialization and Remote Code Execution](https://www.shielder.com/advisories/pgadmin-path-traversal_leads_to_unsafe_deserialization_and_rce/)
 - [Insecure Deserialization Detection In Python (White Paper)](https://scholarworks.sjsu.edu/cgi/viewcontent.cgi?article=2270&context=etd_projects)
-
+- [Dangerous Import: SourceForge Patches Critical Code Vulnerability](https://www.sonarsource.com/blog/dangerous-import-sourceforge-patches-critical-code-vulnerability/)
+  
 ## Node.js
 - [Exploiting Node.js Deserialization Bug For Remote Code Execution](https://opsecx.com/index.php/2017/02/08/exploiting-node-js-deserialization-bug-for-remote-code-execution/)
 - [Deserialization Vulnerabilities: Attacking Deserialization In JS](https://www.acunetix.com/blog/web-security-zone/deserialization-vulnerabilities-attacking-deserialization-in-js/)
@@ -329,6 +334,8 @@ Resources to learn about Insecure Deserialization
 - [Blind Remote Code Execution Through YAML Deserialization](https://blog.stratumsecurity.com/2021/06/09/blind-remote-code-execution-through-yaml-deserialization/)
 - [Discovering Deserialization Gadget Chains In Rubyland](https://blog.includesecurity.com/2024/03/discovering-deserialization-gadget-chains-in-rubyland/)
 
+## Perl
+- [Deserialization in Perl v5.8](https://www.agarri.fr/blog/archives/2016/02/06/deserialization_in_perl_v5_8/index.html)
 
 ## C-Sharp / .NET
 - [Exploiting .NET Managed DCOM](https://googleprojectzero.blogspot.com/2017/04/)
