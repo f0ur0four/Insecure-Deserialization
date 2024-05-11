@@ -8,6 +8,7 @@ Resources to learn about Insecure Deserialization
 - [Understanding Insecure Deserialization Vulnerabilities: Security Simplified - Vickie Li](https://www.youtube.com/watch?v=C5jbiEYaiRA)
 - [Insecure Deserialization - Snyk](https://learn.snyk.io/lesson/insecure-deserialization/)
 - [Serialization: The Big Threat](https://klezvirus.github.io/Advanced-Web-Hacking/Serialisation/)
+- [Insecure Deserialization - TryHackMe Room](https://tryhackme.com/r/room/insecuredeserialisation)
 - [A Beginner's Guide To Insecure Deserialization](https://medium.com/@four0four/a-beginners-guide-to-insecure-deserialization-d359adffb207)
 - [Deserialization Disasters](https://www.youtube.com/watch?v=qRJp2jkQslc)
 - [Intro To PHP Deserialization / Object Injection - IppSec](https://www.youtube.com/watch?v=HaW15aMzBUM)
