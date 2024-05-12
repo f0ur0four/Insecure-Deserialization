@@ -289,7 +289,7 @@ Resources to learn about Insecure Deserialization
 - [Combating Java Deserialization Vulnerabilities With Look-Ahead Object Input Streams (White Paper)](https://research.nccgroup.com/wp-content/uploads/2020/07/ncc_group_combating_java_deserialization_vulnerabilities_with_look-ahead_object_input_streams1.pdf)
 - [Java Unmarshaller Security - Turning Your Data Into Code Execution (White Paper)](https://github.com/mbechler/marshalsec/blob/master/marshalsec.pdf)
 - [Combating Java Deserialization Vulnerabilities with Look-Ahead Object Input Streams (White Paper)](https://www.researchgate.net/profile/Robert-Seacord/publication/318099751_Combating_Java_Deserialization_Vulnerabilities_with_Look-Ahead_Object_Input_Streams_LAOIS/links/59591552a6fdcc2beca9479b/Combating-Java-Deserialization-Vulnerabilities-with-Look-Ahead-Object-Input-Streams-LAOIS.pdf)
-- [Java Deserialization Vulnerabilities: Exploitation Techniques And Mitigations (White Paper)]()
+- [Java Deserialization Vulnerabilities: Exploitation Techniques And Mitigations (White Paper)](https://www.duo.uio.no/bitstream/handle/10852/79730/Master-Thesis---Java-Deserialization-Vulnerabilities---Sondre-Fingann.pdf?sequence=1&isAllowed=y)
 - [An In-Depth Study Of Java Deserialization Remote-Code Execution Exploits And Vulnerabilities (White Paper)](https://arxiv.org/pdf/2208.08173.pdf)
 - [Evaluating The Testability Of Insecure Deserialization Vulnerabilities Via Static Analysis (White Paper)](https://www.politesi.polimi.it/retrieve/fd4ecc81-4d2f-413d-a147-04dfdd48a0f8/Thesis%20Sabatini%20Alessandro.pdf)
 - [Crystallizer: A Hybrid Path Analysis Framework To Aid In Uncovering Deserialization Vulnerabilities (White Paper)](https://dl.acm.org/doi/pdf/10.1145/3611643.3616313)
