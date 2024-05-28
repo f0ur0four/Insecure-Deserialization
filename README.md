@@ -405,14 +405,21 @@ Resources to learn about Insecure Deserialization
 
 ## Java
 - [ysoserial](https://github.com/frohoff/ysoserial/)
-- [Java Deserialization Scanner](https://github.com/federicodotta/Java-Deserialization-Scanner)(BurpSuite Plugin)
+- [Java Deserialization Scanner](https://github.com/federicodotta/Java-Deserialization-Scanner) (BurpSuite Plugin)
 - [JexBoss](https://github.com/joaomatosf/jexboss)
 - [SerializationDumper](https://github.com/NickstaDB/SerializationDumper)
+- [SerialKillerBypassGadgetCollection](https://github.com/pwntester/SerialKillerBypassGadgetCollection)
+- [SerialBrute](https://github.com/NickstaDB/SerialBrute)
+- [BaRMIe](https://github.com/NickstaDB/BaRMIe)
+- [GadgetInspector](https://github.com/JackOfMostTrades/gadgetinspector)
+- [RmiScout](https://github.com/BishopFox/rmiscout)
+- [ysomap](https://github.com/wh1t3p1g/ysomap)
 
 ## .NET
 - [ysoserial.net](https://github.com/pwntester/ysoserial.net)
 - [.Net-Sterilized](https://github.com/TraceSrc/.Net-Sterilized--Deserialization-Exploitation)
 - [ExploitRemotingService](https://github.com/tyranid/ExploitRemotingService)
+- [NetDeserializeTool](https://github.com/Ivan1ee/NetDeserializeTool)
 
 ## Python
 - [deser-py](https://github.com/klezVirus/deser-py)
