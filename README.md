@@ -200,6 +200,8 @@ Resources to learn about Insecure Deserialization
 #### Exploiting Hardened .NET Deserialization
 - [Video](https://www.youtube.com/watch?v=_CJmUh0_uOM)
 - [White Paper](https://github.com/thezdi/presentations/blob/main/2023_Hexacon/whitepaper-net-deser.pdf)
+#### OffensiveCon24 - Piotr Bazydlo - Half Measures and Full Compromise
+- [Video](https://www.youtube.com/watch?v=AxNO2iA2fAg)
 ## Python
 #### Sour Pickles
 - [Video](https://www.youtube.com/watch?v=sQKpTbvBezA)
@@ -366,6 +368,7 @@ Resources to learn about Insecure Deserialization
 - [Microsoft Exchange Powershell Remoting Deserialization Lead To RCE (CVE-2023–21707)](https://testbnull.medium.com/microsoft-exchange-powershell-remoting-deserialization-lead-to-rce-cve-2023-21707-4d0e6d282f02)
 - [Some Notes Of Microsoft Exchange Deserialization RCE (CVE-2021–42321)](https://testbnull.medium.com/some-notes-of-microsoft-exchange-deserialization-rce-cve-2021-42321-f6750243cdcd)
 - [50 Shades Of SolarWinds Orion (Patch Manager) Deserialization (Final Part: CVE-2021–35218)](https://testbnull.medium.com/50-shades-of-solarwinds-orion-patch-manager-deserialization-final-part-cve-2021-35218-3d38166cb81f)
+- [Molding Lies Into Reality || Exploiting CVE-2024-4358](https://summoning.team/blog/progress-report-server-rce-cve-2024-4358-cve-2024-1800)
 - [SerialDetector: Principled And Practical Exploration Of Object Injection Vulnerabilities for the Web (White Paper)](https://www.diva-portal.org/smash/get/diva2:1515038/FULLTEXT01.pdf)
 
 ---
